@@ -1,0 +1,51 @@
+.img {
+    margin-top: 4px;
+
+}
+
+.sskuang {
+    width: 200px;
+    height: 40px;
+    background: #cec7c7;
+    position: relative;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: -28px;
+    border-radius: 5px;
+
+
+}
+
+.sswenzi {
+    position: relative;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    color: #8b8888;
+
+}
+
+.sousuo {
+
+    position: relative;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    left: 85%;
+
+}
+
+.jiaonang {
+    position: relative;
+    top: 50%;
+    transform: translate(50%, 50%);
+    left: 20%;
+    top: -107px;
+
+}
+
+.juzhong {
+    color: aliceblue;
+    left: 50%;
+    font-size: 24px;
+}
